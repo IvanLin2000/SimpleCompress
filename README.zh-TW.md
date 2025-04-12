@@ -2,6 +2,8 @@
 
 🚀 一個輕量級、注重隱私的工具，可在瀏覽器中直接壓縮圖片和影片 — 無需上傳、無需伺服器、無需麻煩。
 
+🌐 **範例**: [https://simplecompress.reeurl.com](https://simplecompress.reeurl.com)
+
 ## 🧠 關於
 
 **SimpleCompress** 是一個單頁應用程式，讓您使用最簡單的方法壓縮圖片和影片 — **全部在本地完成**。它專為速度、隱私和易用性而設計。

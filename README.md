@@ -2,6 +2,8 @@
 
 🚀 A lightweight, privacy-first tool to compress images and videos **directly in your browser** — no uploads, no servers, no hassle.
 
+🌐 **Live Demo**: [https://simplecompress.reeurl.com](https://simplecompress.reeurl.com)
+
 ## 🧠 About
 
 **SimpleCompress** is a single-page app that lets you compress images and videos using the simplest methods possible — **all locally**. It's built for speed, privacy, and ease of use.
