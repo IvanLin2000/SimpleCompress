@@ -245,7 +245,9 @@ const compressVideo = async (file) => {
       '-i', inputName,
       '-c:v', 'libx264',
       '-b:v', `${bitrate}k`,
-      '-preset', 'ultrafast',
+      '-preset', 'medium',
+      '-threads', '0',
+      '-thread_type', 'frame+slice',
       '-movflags', 'frag_keyframe+empty_moov',
       outputName
     ])
