@@ -6,10 +6,11 @@ const routes = [
   { path: '/', redirect: '/image' },
   { path: '/image', component: ImageCompressor },
   { path: '/video', component: VideoCompressor },
+  { path: '/:pathMatch(.*)*', redirect: '/' }
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes,
 })
 
