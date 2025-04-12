@@ -1,21 +1,17 @@
-# 依賴
 node_modules/
 dist/
 .DS_Store
 
-# 日誌
 logs
 *.log
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# 環境變數
 .env
 .env.local
 .env.*.local
 
-# 編輯器目錄和文件
 .idea/
 .vscode/
 *.suo
