@@ -1,5 +1,7 @@
 # SimpleCompress
 
+[繁體中文](./README.zh-TW.md)
+
 🚀 A lightweight, privacy-first tool to compress images and videos **directly in your browser** — no uploads, no servers, no hassle.
 
 🌐 **Live Demo**: [https://simplecompress.reeurl.com](https://simplecompress.reeurl.com)

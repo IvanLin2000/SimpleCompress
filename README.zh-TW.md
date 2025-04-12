@@ -1,5 +1,7 @@
 # SimpleCompress
 
+[English](./README.md)
+
 🚀 一個輕量級、注重隱私的工具，可在瀏覽器中直接壓縮圖片和影片 — 無需上傳、無需伺服器、無需麻煩。
 
 🌐 **範例**: [https://simplecompress.reeurl.com](https://simplecompress.reeurl.com)
